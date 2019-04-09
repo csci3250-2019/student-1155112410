@@ -48,13 +48,13 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 ## Stuffs that I did in CUHK
 ### What CS courses I have studied/ am studying
 
-- CSCI 2100 - Data Structures
-- CSCI 3130 - Formal Language and Automata Theory
-- CSCI 3150 - Intro to Operating Systems
-- CSCI 3170 - Intro to Database Systems
-- CSCI 3180 - Principles of Programming Languages
-- CSCI 3250 - Computers and Society
-- CSCI 3251 - Engineering Practicum
+- [ ]CSCI 2100 - Data Structures
+- [x]CSCI 3130 - Formal Language and Automata Theory
+- [x]CSCI 3150 - Intro to Operating Systems
+- [ ]CSCI 3170 - Intro to Database Systems
+- [ ]CSCI 3180 - Principles of Programming Languages
+- [ ]CSCI 3250 - Computers and Society
+- [ ]CSCI 3251 - Engineering Practicum
 
 ### What I did in CUHK
 
