@@ -83,7 +83,7 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 
 ### What I have did
 
-  - A FYP of healthcare solution (Which has been featured in 2017 - 2018 JOS Innovation Award final)
+  - A FYP of healthcare solution [](Which has been featured in 2017 - 2018 JOS Innovation Award final)](http://www.etnet.com.hk/www/tc/news/prnewswire_news_detail.php?newsid=2191564_XG91564_2&page=1) (Group 1  - Clinic Automation)
   - [A simple URL shortener using node.js, mongoDB and Docker](https://github.com/mynameiskenlee/simple-url-shortener)
 
 ## What I would like to do in the future
