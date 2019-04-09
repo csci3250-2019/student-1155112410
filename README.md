@@ -48,13 +48,13 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 ## Stuffs that I did in CUHK
 ### What CS courses I have studied/ am studying
 
-- [ ]CSCI 2100 - Data Structures
-- [x]CSCI 3130 - Formal Language and Automata Theory
-- [x]CSCI 3150 - Intro to Operating Systems
-- [ ]CSCI 3170 - Intro to Database Systems
-- [ ]CSCI 3180 - Principles of Programming Languages
-- [ ]CSCI 3250 - Computers and Society
-- [ ]CSCI 3251 - Engineering Practicum
+- [ ] CSCI 2100 - Data Structures
+- [x] CSCI 3130 - Formal Language and Automata Theory
+- [x] CSCI 3150 - Intro to Operating Systems
+- [ ] CSCI 3170 - Intro to Database Systems
+- [ ] CSCI 3180 - Principles of Programming Languages
+- [ ] CSCI 3250 - Computers and Society
+- [ ] CSCI 3251 - Engineering Practicum
 
 ### What I did in CUHK
 
@@ -83,7 +83,7 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 
 ### What I have did
 
-  - A FYP of healthcare solution [](Which has been featured in 2017 - 2018 JOS Innovation Award final)](http://www.etnet.com.hk/www/tc/news/prnewswire_news_detail.php?newsid=2191564_XG91564_2&page=1) (Group 1  - Clinic Automation)
+  - A FYP of healthcare solution [(Which has been featured in 2017 - 2018 JOS Innovation Award final)](http://www.etnet.com.hk/www/tc/news/prnewswire_news_detail.php?newsid=2191564_XG91564_2&page=1) (Group 1  - Clinic Automation)
   - [A simple URL shortener using node.js, mongoDB and Docker](https://github.com/mynameiskenlee/simple-url-shortener)
 
 ## What I would like to do in the future
