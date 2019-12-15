@@ -53,6 +53,7 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 - [x] CSCI 2100 - Data Structures
 - [x] CSCI 3130 - Formal Language and Automata Theory
 - [x] CSCI 3150 - Intro to Operating Systems
+- [ ] CSCI 3160 - Design and Analysis of Algorithms
 - [x] CSCI 3170 - Intro to Database Systems
 - [x] CSCI 3180 - Principles of Programming Languages
 - [ ] CSCI 3220 - Algorithms for Bioinformatics
