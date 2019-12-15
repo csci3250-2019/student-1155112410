@@ -8,12 +8,13 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 
 |Year|Program | Institution| Award |
 |---|---|---|---|
-|2018 - (2020)| Computer Science| The Chinese University of Hong Kong| |
+|2018 - (2021)| Computer Science| The Chinese University of Hong Kong| |
 |2016 - 2018 | Software Engineering | The Hong Kong Institute of Vocational Education (Lee Wai Lee) | Higher Diploma (Distinction) |
 
 ### Work Experiences
 |Year|Job Title|Company|
 |---|---|---|
+|2019 - |Part-time IT Assistant|HKT Services Limited|
 |2017 - 2017|Part-time Programmer|Applied Technology Group Limited|
 
 ### Programming Language that I have learnt
@@ -48,13 +49,16 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 ## Stuffs that I did in CUHK
 ### What CS courses I have studied/ am studying
 
-- [ ] CSCI 2100 - Data Structures
+- [ ] CSCI 2040 - Introduction to Python
+- [x] CSCI 2100 - Data Structures
 - [x] CSCI 3130 - Formal Language and Automata Theory
 - [x] CSCI 3150 - Intro to Operating Systems
-- [ ] CSCI 3170 - Intro to Database Systems
-- [ ] CSCI 3180 - Principles of Programming Languages
-- [ ] CSCI 3250 - Computers and Society
-- [ ] CSCI 3251 - Engineering Practicum
+- [x] CSCI 3170 - Intro to Database Systems
+- [x] CSCI 3180 - Principles of Programming Languages
+- [ ] CSCI 3220 - Algorithms for Bioinformatics
+- [ ] CSCI 3230 - Fundamentals of Artificial Intelligence
+- [x] CSCI 3250 - Computers and Society
+- [x] CSCI 3251 - Engineering Practicum
 
 ### What I did in CUHK
 
