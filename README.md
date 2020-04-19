@@ -49,17 +49,20 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 ## Stuffs that I did in CUHK
 ### What CS courses I have studied/ am studying
 
-- [ ] CSCI 2040 - Introduction to Python
+- [x] CSCI 2040 - Introduction to Python
 - [x] CSCI 2100 - Data Structures
+- [ ] CSCI 3100 - Software Engineering
 - [x] CSCI 3130 - Formal Language and Automata Theory
 - [x] CSCI 3150 - Intro to Operating Systems
-- [ ] CSCI 3160 - Design and Analysis of Algorithms
+- [x] CSCI 3160 - Design and Analysis of Algorithms
 - [x] CSCI 3170 - Intro to Database Systems
 - [x] CSCI 3180 - Principles of Programming Languages
-- [ ] CSCI 3220 - Algorithms for Bioinformatics
-- [ ] CSCI 3230 - Fundamentals of Artificial Intelligence
+- [x] CSCI 3220 - Algorithms for Bioinformatics
+- [x] CSCI 3230 - Fundamentals of Artificial Intelligence
 - [x] CSCI 3250 - Computers and Society
 - [x] CSCI 3251 - Engineering Practicum
+- [ ] CSCI 3310 - Mobile Computing and Applications Development
+- [ ] CSCI 4430 - Data Communication and Computer Networks
 
 ### What I did in CUHK
 
@@ -92,6 +95,7 @@ Ambitious, result-focused Bachelor student with professional training in softwar
   - [A simple URL shortener using node.js, mongoDB and Docker](https://github.com/mynameiskenlee/simple-url-shortener)
 
 ## What I would like to do in the future
+ - [x] Microsoft Certified : Azure Fundamentals
  - [ ] Pursuit for a CCNA certificate
  - [ ] Pursuit for a MCSA certificate
  - [ ] Become a software engineer
