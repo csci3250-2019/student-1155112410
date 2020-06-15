@@ -51,7 +51,8 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 
 - [x] CSCI 2040 - Introduction to Python
 - [x] CSCI 2100 - Data Structures
-- [ ] CSCI 3100 - Software Engineering
+- [ ] CSCI 2720 - Building Web Applications
+- [x] CSCI 3100 - Software Engineering
 - [x] CSCI 3130 - Formal Language and Automata Theory
 - [x] CSCI 3150 - Intro to Operating Systems
 - [x] CSCI 3160 - Design and Analysis of Algorithms
@@ -61,8 +62,8 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 - [x] CSCI 3230 - Fundamentals of Artificial Intelligence
 - [x] CSCI 3250 - Computers and Society
 - [x] CSCI 3251 - Engineering Practicum
-- [ ] CSCI 3310 - Mobile Computing and Applications Development
-- [ ] CSCI 4430 - Data Communication and Computer Networks
+- [x] CSCI 3310 - Mobile Computing and Applications Development
+- [x] CSCI 4430 - Data Communication and Computer Networks
 
 ### What I did in CUHK
 
