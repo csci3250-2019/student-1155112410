@@ -51,7 +51,7 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 
 - [x] CSCI 2040 - Introduction to Python
 - [x] CSCI 2100 - Data Structures
-- [ ] CSCI 2720 - Building Web Applications
+- [x] CSCI 2720 - Building Web Applications
 - [x] CSCI 3100 - Software Engineering
 - [x] CSCI 3130 - Formal Language and Automata Theory
 - [x] CSCI 3150 - Intro to Operating Systems
