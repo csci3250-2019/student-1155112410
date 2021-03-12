@@ -71,6 +71,15 @@ and many more!
 - [ ] CSCI 4190 - Introduction to Social Networks
 - [x] CSCI 4430 - Data Communication and Computer Networks
 
+### What other courses I have studied/ am studying that are related to CS
+- [X] DSPS 1003 - Foundation of Data Science
+- [X] SEEM 2460 - Introduction to Data Science
+- [X] IERG 3320 - Social Media and Human Information Interaction
+- [X] FTEC 4003 - Data Mining in Fintech
+- [ ] IERG 4130 - Introduction to Cyber Security
+- [X] IERG 4300 - Web-Scale Information Analytics
+- [ ] IERG 4330 - Programming in Big Data Systems
+
 ### What I did in CUHK
 
 - Vice Chairperson (College) and Promotional secretary, The Computer Science Society, The Student Union of The Chinese University of Hong Kong
@@ -89,7 +98,7 @@ and many more!
  - Network
  - Operating Systems
  - Database Principles
- - Programming Techniques for MobileSystems
+ - Programming Techniques for Mobile Systems
 
 #### Self Learnt
 
