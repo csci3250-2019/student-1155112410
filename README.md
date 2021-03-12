@@ -14,7 +14,8 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 ### Work Experiences
 |Year|Job Title|Company|
 |---|---|---|
-|2019 - |Part-time IT Assistant|HKT Services Limited|
+|2021 - |Part-time Mobile Application Developer|Pokeguide Limited|
+|2019 - 2021|Part-time IT Assistant|HKT Services Limited|
 |2017 - 2017|Part-time Programmer|Applied Technology Group Limited|
 
 ### Programming Language that I have learnt
@@ -22,9 +23,11 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 |Language|Framework|
 |---|---|
 |Java|J2EE, Android|
+|Kotlin| Android|
 |Swift|iOS|
 |Javascript| jQuery, electron, node.js (Express.js)|
 |C#| UWP, ASP.NET Core|
+|Dart| Flutter|
 |C| &nbsp;|
 |Python|&nbsp; |
 |Go| &nbsp;|
@@ -35,7 +38,7 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 |Pascal| &nbsp; |
 |ABAP| &nbsp; |
 |Powershell| &nbsp; |
-
+and many more!
 
 ### Honors, Awards and competition that I have joined
 
@@ -63,6 +66,8 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 - [x] CSCI 3250 - Computers and Society
 - [x] CSCI 3251 - Engineering Practicum
 - [x] CSCI 3310 - Mobile Computing and Applications Development
+- [ ] CSCI 3320 - Fundamental of Machine Learning
+- [ ] CSCI 4190 - Introduction to Social Networks
 - [x] CSCI 4430 - Data Communication and Computer Networks
 
 ### What I did in CUHK
@@ -98,7 +103,6 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 ## What I would like to do in the future
  - [x] Microsoft Certified : Azure Fundamentals
  - [ ] Pursuit for a CCNA certificate
- - [ ] Pursuit for a MCSA certificate
  - [ ] Become a software engineer
  - [ ] Publish my first ever node module
- - [ ] Publish my own personal website (actually I have got my personal domain two years ago😇)
+ - [ ] Publish my own personal website (actually I have got my personal domain at 2017😇)
