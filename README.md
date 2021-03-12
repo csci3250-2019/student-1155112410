@@ -38,6 +38,7 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 |Pascal| &nbsp; |
 |ABAP| &nbsp; |
 |Powershell| &nbsp; |
+
 and many more!
 
 ### Honors, Awards and competition that I have joined
