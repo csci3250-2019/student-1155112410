@@ -8,13 +8,14 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 
 |Year|Program | Institution| Award |
 |---|---|---|---|
-|2018 - (2021)| Computer Science| The Chinese University of Hong Kong| |
+|2018 - 2021| Computer Science| The Chinese University of Hong Kong| Bachelor of Science (Second Honour Upper Division) |
 |2016 - 2018 | Software Engineering | The Hong Kong Institute of Vocational Education (Lee Wai Lee) | Higher Diploma (Distinction) |
 
 ### Work Experiences
 |Year|Job Title|Company|
 |---|---|---|
-|2021 - |Part-time Mobile Application Developer|Pokeguide Limited|
+|2021 - |Assistant Manager, Innovation Technology|HSBC|
+|2021 - 2021|Part-time Mobile Application Developer|Pokeguide Limited|
 |2019 - 2021|Part-time IT Assistant|HKT Services Limited|
 |2017 - 2017|Part-time Programmer|Applied Technology Group Limited|
 
@@ -45,6 +46,7 @@ and many more!
 
 |Year|Title| Award/Competition| Organiser|
 |---|---|---|---|
+|May 2021|First Runner Up|Data Hack 2021|Center for Entrepreneurship, CUHK Library, Data Science and Policy Studies Programme, Department of Cultural and Religious Studies, Department of Management, Department of Social Work, Entrepreneurship and Innovation (EPIN) Minor Programme, School of Journalism and Communication of CUHK|
 |Nov 2018|Participation (on selection basis) (Should be the only one in CUHK CSE)<br/> and <br/>Hacked my way to the final interview of the Microsoft HK selection process😀|Microsoft Job Hack| Microsoft Hong Kong|
 |Mar 2018|Finalist| JOS Innovation Awards (HK) 2017-18| Jardine OneSolution (Hong Kong and Macau)|
 |May 2017| Participation<br /> (Ranked 23)|Inter-tertiary Institute Capture the Flag (CTF) contest 2017| ASTRI, iChunQiu|
@@ -67,8 +69,8 @@ and many more!
 - [x] CSCI 3250 - Computers and Society
 - [x] CSCI 3251 - Engineering Practicum
 - [x] CSCI 3310 - Mobile Computing and Applications Development
-- [ ] CSCI 3320 - Fundamental of Machine Learning
-- [ ] CSCI 4190 - Introduction to Social Networks
+- [x] CSCI 3320 - Fundamental of Machine Learning
+- [x] CSCI 4190 - Introduction to Social Networks
 - [x] CSCI 4430 - Data Communication and Computer Networks
 
 ### What other courses I have studied/ am studying that are related to CS
@@ -76,9 +78,9 @@ and many more!
 - [X] SEEM 2460 - Introduction to Data Science
 - [X] IERG 3320 - Social Media and Human Information Interaction
 - [X] FTEC 4003 - Data Mining in Fintech
-- [ ] IERG 4130 - Introduction to Cyber Security
+- [x] IERG 4130 - Introduction to Cyber Security
 - [X] IERG 4300 - Web-Scale Information Analytics
-- [ ] IERG 4330 - Programming in Big Data Systems
+- [x] IERG 4330 - Programming in Big Data Systems
 
 ### What I did in CUHK
 
