@@ -15,7 +15,7 @@ Ambitious, result-focused Bachelor student with professional training in softwar
 |Year|Job Title|Company|
 |---|---|---|
 |2021 - |Assistant Manager, Innovation Technology|HSBC|
-|2021 - 2021|Part-time Mobile Application Developer|Pokeguide Limited|
+|2020 - 2021|Part-time Mobile Application Developer|Pokeguide Limited|
 |2019 - 2021|Part-time IT Assistant|HKT Services Limited|
 |2017 - 2017|Part-time Programmer|Applied Technology Group Limited|
 
